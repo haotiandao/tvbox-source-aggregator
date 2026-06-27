@@ -6,6 +6,9 @@ data/
 .env
 .DS_Store
 
+# Edge function build output
+edge-functions/[[default]].js
+
 # Android (APK 形态)
 android/.gradle/
 android/build/
